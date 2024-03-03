@@ -1,6 +1,6 @@
 module github.com/luisnquin/go-log
 
-go 1.22.0
+go 1.18.0
 
 require (
 	github.com/gookit/color v1.5.4
